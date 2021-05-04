@@ -1,0 +1,25 @@
+body {
+    padding-top: 3rem;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#mainNav {
+    background-color: #c0fefc;
+}
+
+.navbar-light .navbar-brand {
+    color: #ce1212;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #ce1212;
+}
+
+.content {
+    line-height: 30px;
+}
+
+.vision {
+    font-size: 100px;
+    line-height: 120px;
+}
