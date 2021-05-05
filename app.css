@@ -23,3 +23,14 @@ body {
     font-size: 100px;
     line-height: 120px;
 }
+
+@media (max-width: 576px) {
+   .content {
+       font-size: small;
+       line-height: 2em;
+   } 
+
+   h1 {
+       font-size: 2rem;
+   }
+}
